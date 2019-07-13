@@ -1,0 +1,14 @@
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Debug\netcoreapp2.1\CoreLambda.deps.json
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Debug\netcoreapp2.1\CoreLambda.runtimeconfig.json
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Debug\netcoreapp2.1\CoreLambda.runtimeconfig.dev.json
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Debug\netcoreapp2.1\CoreLambda.dll
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Debug\netcoreapp2.1\CoreLambda.pdb
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Debug\netcoreapp2.1\CoreLambda.csprojAssemblyReference.cache
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Debug\netcoreapp2.1\CoreLambda.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Debug\netcoreapp2.1\CoreLambda.RazorAssemblyInfo.cache
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Debug\netcoreapp2.1\CoreLambda.RazorAssemblyInfo.cs
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Debug\netcoreapp2.1\CoreLambda.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Debug\netcoreapp2.1\CoreLambda.AssemblyInfo.cs
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Debug\netcoreapp2.1\CoreLambda.RazorTargetAssemblyInfo.cache
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Debug\netcoreapp2.1\CoreLambda.dll
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Debug\netcoreapp2.1\CoreLambda.pdb

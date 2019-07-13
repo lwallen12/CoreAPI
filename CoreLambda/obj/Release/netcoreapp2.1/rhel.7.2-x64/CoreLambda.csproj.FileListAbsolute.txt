@@ -1,0 +1,15 @@
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.deps.json
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.runtimeconfig.json
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.runtimeconfig.dev.json
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.dll
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.pdb
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.csprojAssemblyReference.cache
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.RazorAssemblyInfo.cache
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.RazorAssemblyInfo.cs
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.AssemblyInfo.cs
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.RazorTargetAssemblyInfo.cache
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.dll
+C:\Users\Will\source\repos\CoreLambda\CoreLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\CoreLambda.pdb
