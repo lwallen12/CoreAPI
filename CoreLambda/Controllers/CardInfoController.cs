@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace CoreLambda.Controllers
 {
@@ -13,6 +14,9 @@ namespace CoreLambda.Controllers
     public class CardInfoController : ControllerBase
     {
         private readonly ClashContext _context;
+
+
+        private string Hello;
 
         public CardInfoController(ClashContext context)
         {
@@ -43,5 +47,7 @@ namespace CoreLambda.Controllers
 
             return Ok(cardInfo);
         }
+
+
     }
 }

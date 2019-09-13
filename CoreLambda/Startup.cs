@@ -29,6 +29,8 @@ namespace CoreLambda
             services.AddDbContext<Clash.ClashContext>(options =>
             options.UseMySQL("Server=test1.ce8cn9mhhgds.us-east-1.rds.amazonaws.com;Database=clash;Uid=Wallen;Pwd=MyRDSdb1;Allow User Variables=True;"));
 
+            services.AddCors();
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             // Add S3 to the ASP.NET Core dependency injection framework.
@@ -46,6 +48,9 @@ namespace CoreLambda
             {
                 app.UseHsts();
             }
+
+            app.UseCors(options =>
+            options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
             app.UseHttpsRedirection();
             app.UseMvc();
